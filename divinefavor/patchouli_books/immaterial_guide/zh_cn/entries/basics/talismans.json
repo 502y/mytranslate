@@ -1,5 +1,5 @@
 {
-  "name": "护符",
+  "name": "符咒",
   "icon": "divinefavor:spell_talisman_wild_sprint",
   "category": "basics",
   "read_by_default": true,
@@ -7,31 +7,31 @@
   "pages": [
     {
       "type": "text",
-      "text": "Ultimate goal of spiritual sorcerer. Talisman is used to cast spells. As were mentioned before spiritual mage does not cast spells by himself, but instead he relies on spirits. To cast spell mage needs two things: talisman and favor of a spirit. Favor is like a currency used by spirits. Each spirit has its own and keeps track of how much you have."
+      "text": "精灵魔法的最终目标！符咒被用来释放法术。前面说过圣灵咒术师并不自己施法，而是依靠圣灵。咒术师依靠两种事物施法：符咒和圣灵的恩赐。恩赐就像是一种圣灵使用的货币。每个圣灵的恩赐互不相通，记得时刻注意你还有多少圣灵的恩惠。"
     },
     {
       "type": "text",
-      "text": "Each talisman is bound to a spirit, usually it is spirit from which you bought talisman. To use talisman you need favor of corresponding spirit. When talisman is used favor will be consumed. As long as you have enough favor you can use you can use talisman freely. Different talismans cost different amount of favor. There are different types of talismans. Some can be used on its own and some need additional tools to use."
+      "text": "每个符咒均与一位圣灵相关联，通常这位圣灵就是你得到符咒的那位。你需要对应圣灵的恩赐来使用符咒。当使用符咒时，恩赐将会被消耗。只要你拥有足够多的恩赐，你就可以自由地使用符咒。不同的符咒消耗不同量的恩赐。符咒也有不同的种类，一些可以直接使用，另一些则需要额外的工具才能使用。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:spell_talisman_ignition",
-      "text": "Above you will see an example of a spell talisman. Spell talismans do not require any additional tools to use. Talisman can be used in two ways. $(li)Take talisman in your hand and right click it in air.$(li)Take talisman in your hand and right click block."
+      "text": "在上面你可以看到法术符咒的例子。法术符咒不需要任何额外的工具就可以使用。符咒可以通过两种方式使用。$(li)手持符咒并右击空气。$(li)手持符咒并右击方块。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:arrow_talisman_fill_lungs",
-      "text": "Above you will see an example of an arrow talisman. Arrow talismans require spell bow to use. When used with spell bow it will shoot special arrow. Spell bow requires regular arrows to shoot in addition to talisman."
+      "text": "在上面你可以看到弓箭符咒的例子。弓箭符咒需要符咒弓来使用。符咒弓会射出特殊的箭，它需要普通的箭来射出带有符咒效果的箭。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:blade_talisman_lucky_strike",
-      "text": "Above you will see an example of a blade talisman. Blade talismans require spell blade to use. This type of talisman activates when you hit somebody with a spell blade. This type of talisman cannot be used on its own."
+      "text": "在上面你可以看到刀锋符咒的例子。刀锋符咒需要 spell blade 来使用。这种符咒在你使用 spell blade 攻击时生效。这种符咒不可以单独使用。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:tool_talisman_break_radius",
-      "text": "Above you will see an example of a tool talisman. Tool talismans require spell pick to use. This type of talisman activates when you break block with a spell blade. This type of talisman cannot be used on its own."
+      "text": "在上面可以看到工具符咒的例子。工具符咒需要符咒镐来使用。这种符咒在你使用符咒镐破坏方块时生效。这种符咒不可以单独使用。"
     }
   ]
 }
