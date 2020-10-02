@@ -7,11 +7,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "In order to gain favor you will need contracts. Contracts are items that provides some kind of passive benefit. Contracts are obtained same way as talismans, by trading with spirits at an altar. Contracts are useless on their own. In order to use contract you will need to craft a special block called $(item)Soulbound lectern$(). Contracts are only active inside soulbound lecterns."
+      "text": "你需要契约来得到恩赐。契约是一种带有某些被动效果的物品。获得契约的方式与获得符咒的方式相同——在祭坛中与圣灵进行交易。契约本身没有任何用处。为了使用契约你需要制造一种叫做 $(item)木制魂契台$() 的特殊方块。契约仅会在 木制魂契台内生效。"
     },
     {
       "type": "crafting",
-      "text": "$(item)Wooden soulbound lectern$() recipe. $(br)Soulbound lectern is a block in which player stores his active contracts. This block is similar to ender chest. All soulbound lecterns share storage that bound to player.",
+      "text": "$(item)木制魂契台$() 合成表。$(br)Soulbound lectern 是一种玩家可以储存活跃契约的方块。这种方块与末影箱相似。同一玩家使用的所有魂契台共享储存空间。",
       "recipe": "divinefavor:soulbound_lectern_wood"
     },
     {
