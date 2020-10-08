@@ -1,11 +1,11 @@
 # Creative tabs
 itemGroup.divinefavor:tab.main=Divine Favor
-itemGroup.divinefavor:tab.gems=Divine Favor Gems
-itemGroup.divinefavor:tab.talismans=Divine Favor Talismans
-itemGroup.divinefavor:tab.contracts=Divine Favor Contracts
-itemGroup.divinefavor:tab.arrow_talismans=Divine Favor Arrow Talismans
-itemGroup.divinefavor:tab.blade_talismans=Divine Favor Blade Talismans
-itemGroup.divinefavor:tab.tool_talismans=Divine Favor Tool Talismans
+itemGroup.divinefavor:tab.gems=Divine Favor 宝石
+itemGroup.divinefavor:tab.talismans=Divine Favor 符咒
+itemGroup.divinefavor:tab.contracts=Divine Favor 契约
+itemGroup.divinefavor:tab.arrow_talismans=Divine Favor 弓箭符咒
+itemGroup.divinefavor:tab.blade_talismans=Divine Favor 刀锋符咒
+itemGroup.divinefavor:tab.tool_talismans=Divine Favor 工具符咒
 
 # BLOCK NAMES
 ## MEDIUMS

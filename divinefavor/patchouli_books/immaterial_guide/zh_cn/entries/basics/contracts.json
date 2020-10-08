@@ -7,26 +7,26 @@
   "pages": [
     {
       "type": "text",
-      "text": "In order to gain favor you will need contracts. Contracts are items that provides some kind of passive benefit. Contracts are obtained same way as talismans, by trading with spirits at an altar. Contracts are useless on their own. In order to use contract you will need to craft a special block called $(item)Soulbound lectern$(). Contracts are only active inside soulbound lecterns."
+      "text": "你需要契约来得到恩赐。契约是一种带有某些被动效果的物品。获得契约的方式与获得符咒的方式相同——在祭坛中与圣灵进行交易。契约本身没有任何用处。为了使用契约你需要制造一种叫做 $(item)木制魂契台$() 的特殊方块。契约仅会在魂契台内生效。"
     },
     {
       "type": "crafting",
-      "text": "$(item)Wooden soulbound lectern$() recipe. $(br)Soulbound lectern is a block in which player stores his active contracts. This block is similar to ender chest. All soulbound lecterns share storage that bound to player.",
+      "text": "$(item)木制魂契台$() 合成表。$(br)魂契台是一种玩家可以储存激活契约的方块。这种方块与末影箱相似。同一玩家使用的所有魂契台共享储存空间。",
       "recipe": "divinefavor:soulbound_lectern_wood"
     },
     {
       "type": "text",
-      "text": "All soulbound lecterns share storage. It means that you will never lose your contracts, but it also means that amount of active contracts at once is limited. While lecterns do share storage, there are in fact several shared storage spaces, one storage for each type of spirit favor. To access certain type of storage you will need to insert a certain type of soul shard in lectern and build a multiblock around it."
+      "text": "所有的魂契台共享同一个储存空间。也就是说你永远不会丢失你的契约，不过也意味着激活契约的数量是有限的。While lecterns do share storage, there are in fact several shared storage spaces, one storage for each type of spirit favor. To access certain type of storage you will need to insert a certain type of soul shard in lectern and build a multiblock around it."
     },
     {
       "type": "spotlight",
       "item": "divinefavor:soul_shard_will",
-      "text": "You will also need soul shards in order to use $(item)Soulbound lectern$(). When you open gui of lectern you will see a slot in the center. In order to activate lectern you will need to put soul shard in central slot. Shards can be obtained with an $(item)Awakened bone dagger$(). To get your own soul shard take dagger in hand, sneak and right click."
+      "text": "你还需要灵魂碎片来使用$(item)魂契台$()。当你打开魂契台的 GUI 时，你会在中央看到一个格子。为了激活魂契台你需要在中间的格子中放置灵魂碎片。碎片可以使用$(item)觉醒的骨短剑$()获得。手持短剑，潜行并右击，你就可以得到你自己的灵魂碎片。"
     },
     {
       "type": "multiblock",
       "multiblock_id": "divinefavor:patchouli.soulbound_lectern_arbow",
-      "text": "Example of soulbound lectern with proper multiblock."
+      "text": "带有正确多方块结构的魂契台样例。"
     },
     {
       "type": "text",
