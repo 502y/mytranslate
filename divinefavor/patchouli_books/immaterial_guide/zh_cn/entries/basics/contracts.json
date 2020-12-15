@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "你需要契约来得到恩赐。契约是一种带有某些被动效果的物品。获得契约的方式与获得符咒的方式相同——在祭坛中与圣灵进行交易。契约本身没有任何用处。为了使用契约你需要制造一种叫做 $(item)木制魂契台$() 的特殊方块。契约仅会在魂契台内生效。"
+      "text": "#本节需游戏内翻译#你需要契约来得到恩赐。契约是一种带有某些被动效果的物品。获得契约的方式与获得符咒的方式相同——在祭坛中与圣灵进行交易。契约本身没有任何用处。为了使用契约你需要制造一种叫做 $(item)木制魂契台$() 的特殊方块。契约仅会在魂契台内生效。"
     },
     {
       "type": "crafting",
@@ -30,7 +30,7 @@
     },
     {
       "type": "text",
-      "text": "All contracts are not bound to a spirit. Which favor it will affect will be determined by lectern in which it is inserted. For example if you insert capacity contract in soulbound lectern of Arbow then amount of favor of Arbow that you can accumulate will be increased. You can always remove contract from lectern to make some space for another contract or to move it to lectern of another spirit."
+      "text": "所有的契约均不与圣灵绑定。它所需要的恩赐由它中意的魂契台决定。All contracts are not bound to a spirit. Which favor it will affect will be determined by lectern in which it is inserted. For example if you insert capacity contract in soulbound lectern of Arbow then amount of favor of Arbow that you can accumulate will be increased. You can always remove contract from lectern to make some space for another contract or to move it to lectern of another spirit."
     },
     {
       "type": "spotlight",

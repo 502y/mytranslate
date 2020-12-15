@@ -1,5 +1,5 @@
 {
-  "name": "Curses",
+  "name": "诅咒",
   "icon": "divinefavor:milky_apple",
   "category": "basics",
   "read_by_default": true,
@@ -7,34 +7,34 @@
   "pages": [
     {
       "type": "text",
-      "text": "Some talismans allow you to inflict very powerful negative effects called curses. They are very strong but unlike regular potion effects they have some additional mechanics that you need to understand to use or to defend from them effectively. First of all unlike potions curses cannot be removed by drinking milk. Luckily there are other methods to counter curses."
+      "text": "某些符咒可以施加叫做诅咒的强力负面效果。它们非常强大，但是与普通的药水效果不同，诅咒拥有需要了解来使用或有效保护自己的额外方法。第一个不同之处——诅咒无法通过饮用牛奶去除。不过还有其他的方法可以对抗诅咒。"
     },
     {
       "type": "text",
-      "text": "All creatures have certain resistance to curses, some more resistant, and some less resistant. Curse resistance provides a chance to reflect incoming curse back at the caster. Also curses themselves in fact increase your resistance to curses. What it means that all creatures have a chance to reflect a curse, and if they cursed that chance greatly increases."
+      "text": "所有的生物均对诅咒有一定的抗性，某些抗性较强，某些抗性较弱。诅咒抗性有几率将受到的诅咒反弹给施咒者。事实上，诅咒也会增加你对诅咒的抗性。也就是说所有的生物都有几率反跳诅咒，一旦已经被诅咒，这个几率会大幅度提升。"
     },
     {
       "type": "text",
-      "text": "Curse resistance from multiple curses stacks. Also when curse is reflected back at the caster casters curse resistance does not matter, curse will be inflicted regardless. So spamming curses is very bad idea. If you were'nt lucky enough and curse were not reflected there are two ways to remove curse. First is to simply wait it out. Curses usually have time limit."
+      "text": "诅咒抗性来自于多种诅咒（？）。当诅咒反弹到施法者时，施法者的诅咒抗性将会无效，诅咒不可被二次反弹。所以随便诅咒生物非常不好。如果你比较倒霉，诅咒没能反弹，有两种办法可以解除诅咒。第一种就是等诅咒自行消失。诅咒通常有时间限制。"
     },
     {
       "type": "text",
-      "text": "Sooner or later curse will disappear on its own, but there is a quite high probability that you will not be able to survive the curse for that long. Second approach is unique for each curse. Each curse has a condition that you can satisfy in order to remove the curse. When this condition is met curse will be removed instantly. You can usually find that condition in description of curse source."
+      "text": "诅咒都会自行消散，但是你很可能没坚持到诅咒消散就死了。第二种方法对于每种诅咒均有差别。每种诅咒都有一个你可以达成以移除诅咒的条件满足这个条件之后，诅咒会立刻被移除。你通常可以在诅咒的描述中找到这个条件。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:arrow_talisman_armor_corrosion",
-      "text": "For example, $(item)Armor corrosion talisman$() inflicts armor corrosion curse. This curse will continuously damage randomly selected equipment that you are currently wearing. To remove that curse you will have to take off corroded equipment."
+      "text": "比如，$(item)符咒——盔甲腐蚀$() 施加盔甲腐蚀诅咒。这个诅咒会持续减少你装备的护甲随机点耐久。移除这个诅咒只需要脱下正在被腐蚀的装备。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:arrow_talisman_fiery_mark",
-      "text": "$(item)Fiey mark talisman$() inflicts fiery mark curse. This curse will do nothing while it is active, but when it times out naturally victim will explode. To remove that curse you will have to jump in water before it is too late."
+      "text": "$(item)符咒——炽热标记$() 施加炽热标记诅咒。这个诅咒在激活时无任何效果，但是当它的持续时间自动消耗完毕，受咒者将会爆炸。移除这个诅咒只需要在爆炸前跳入水中。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:arrow_talisman_roots",
-      "text": "$(item)Roots talisman$() inflicts curse that will completely immobilize victim. Counter to this curse is quite simple, just look at your legs to make sure there are no actual roots and you will be able to walk again."
+      "text": "$(item)符咒——生根$() 受咒者将被完全固定在原地。counter to this curse is quite simple, just look at your legs to make sure there are no actual roots and you will be able to walk again."
     },
     {
       "type": "spotlight",
