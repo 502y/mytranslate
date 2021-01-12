@@ -8,11 +8,11 @@
     {
       "type": "spirit_info",
       "spirit": "divinefavor:spirit.arbow",
-      "text": "执掌弓箭与狩猎的掠夺之神。如果你需要祂狩猎的力量就召唤祂。spirit of hunt and bows. Call upon this spirit if you want to harness his hunting powers."
+      "text": "执掌弓箭与狩猎的掠夺之神。如果你需要狩猎的力量就召唤祂。"
     },
     {
       "type": "crafting",
-      "text": "In order to contact neblaze you will need to craft calm feather blend. You can see recipe for a $(item)Calm feather blend$() above.",
+      "text": "与In order to contact neblaze you will need to craft calm feather blend. You can see recipe for a $(item)Calm feather blend$() above.",
       "recipe": "divinefavor:blend_feathers"
     },
     {
