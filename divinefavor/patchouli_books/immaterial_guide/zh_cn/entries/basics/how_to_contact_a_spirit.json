@@ -27,7 +27,7 @@
     {
       "type": "crafting",
       "text": "另一件你需要的物品是玻璃灵媒。使用时它会告诉你神灵是否活跃，如果他在沉睡，它就会告知你神灵什么时候会变得活跃。在接触仪式的最后阶段同样需要它。",
-      "recipe": "divinefa vor:marked_glass_neblaze"
+      "recipe": "divinefavor:marked_glass_neblaze"
     },
     {
       "type": "text",
@@ -35,26 +35,26 @@
     },
     {
       "type": "text",
-      "text": "不久之后就会有一种类似于药水的效果。与那些饮用即有最大时间的药水不同，香氛精华的持续时间取决于你泡在浴池的时间。你可以一直泡着直到你认为效果能持续足够长的时间。香氛精华的效果会在你周围形成一种使神灵能更关注你的气味。下界木炭香氛精华有一种烧焦的气味。当神灵活跃且你有适当气味的时候，你就要做点什么来吸引祂的注意了。"
+      "text": "不久之后就会有一种类似于药水的效果。与那些饮用即有最大时间的药水不同，香氛精华的持续时间取决于你泡在浴池的时间。你可以一直泡着直到你认为效果能持续足够长的时间。香氛精华的效果会在你周围形成一种使神灵更容易注视你的气味。下界木炭香氛精华有一种烧焦的气味。当神灵活跃且你有适当气味的时候，你就要做点什么来吸引祂的注意了。"
     },
     {
       "type": "text",
-      "text": "Neblaze 是火焰之神，所以你需要点火来吸引祂。只需要拿起打火石点燃些什么，神灵早晚会注意到你。When and where he does aura effect will be see with effect called presence.如果你有这种效果就意味着某些神灵正在关注你。比如 Neblase In case of neblase when he watches you he will give you effect 'scorching presence'."
+      "text": "Neblaze 是火焰之神，所以你需要点火来吸引祂。只需要拿起打火石点燃些什么，神灵早晚会注意到你。当神灵注视你，祂会给你施加一种叫做垂临的效果。如果你有这种效果就意味着某些神灵正在注视你。当 Neblaze 注视你的时候，你会拥有一种叫做“scorching presence”的效果。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:calling_stone_neblaze",
-      "text": "当你成功地吸引了一个神灵，就是时候给祂留下深刻印象了。在第一阶段，你需要站在火焰中来证明你并不惧怕火焰。如果神灵被你的行为所打动，祂会给你一个信物。神灵的信物是完成仪式必备的物品。"
+      "text": "当你成功地获得了神灵的注视，就是时候给祂留下深刻印象了。在第一阶段，你需要站在火焰中来证明你并不惧怕火焰。如果神灵被你的行为所打动，祂会给你一个信物。神灵的信物是完成仪式必备的物品。"
     },
     {
       "type": "spotlight",
       "item": "divinefavor:marked_glass_neblaze",
-      "text": "（需校对）注意！你需要在背包中放置神灵的玻璃灵媒才能获得祂的信物。当你给祂留下深刻印象并完成仪式后，背包中所有的玻璃灵媒都会转化成这位神灵的信物。"
+      "text": "注意！你需要在背包中放置神灵的玻璃灵媒才能获得祂的信物。当你给祂留下深刻印象并完成仪式后，背包中所有的玻璃灵媒都会转化成这位神灵的信物。"
     },
     {
       "type": "multiblock",
       "multiblock_id": "divinefavor:patchouli.altar_neblaze",
-      "text": "神灵 neblaze 的祭坛。把信物放在媒介中以完成祭坛。"
+      "text": "神灵 Neblaze 的祭坛。把信物放在媒介中以完成祭坛。"
     },
     {
       "type": "text",
