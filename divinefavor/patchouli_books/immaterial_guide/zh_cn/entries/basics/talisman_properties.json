@@ -1,5 +1,5 @@
 {
-  "name": "符咒的特性Talisman properties",
+  "name": "符咒的效果",
   "icon": "divinefavor:spell_talisman_blink",
   "category": "basics",
   "read_by_default": true,
@@ -8,11 +8,11 @@
     {
       "type": "spotlight",
       "item": "divinefavor:spell_talisman_blink",
-      "text": "Some talismans have properties that you can adjust at will. For example $(item)Blink talisman$() has distance property. This property determines how far talisman will teleport you."
+      "text": "某些符咒拥有可以根据你需求调整的效果。For example$(item)Blink talisman$() has distance property.这种效果决定了符咒会把你传送多远。"
     },
     {
       "type": "text",
-      "text": "To alter talisman properties you will need to press property GUI key. By default this GUI is bound to key R. When you press this key GUI will appear. All talisman properties will be displayed on the left side of the screen, if talisman has any. For each property there will be corresponding slider, a button, or other gui element. When you hover over any button or slider a tooltip for this element will be shown on the left side of screen."
+      "text": "你需要按下效果 GUI 键才能改变符咒的效果。默认 GUI 键为 R。 当你按下这个键，GUI 界面就会出现。如果符咒拥有可以调整的效果，所以的效果都会在屏幕左侧显示。For each property there will be corresponding slider, a button, or other gui element. When you hover over any button or slider a tooltip for this element will be shown on the left side of screen."
     },
     {
       "type": "text",
