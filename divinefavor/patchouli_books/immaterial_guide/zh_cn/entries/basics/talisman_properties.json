@@ -12,7 +12,7 @@
     },
     {
       "type": "text",
-      "text": "你需要按下效果 GUI 键才能改变符咒的效果。默认 GUI 键为 R。 当你按下这个键，GUI 界面就会出现。如果符咒拥有可以调整的效果，所以的效果都会在屏幕左侧显示。For each property there will be corresponding slider, a button, or other gui element. When you hover over any button or slider a tooltip for this element will be shown on the left side of screen."
+      "text": "你需要按下效果 GUI 键才能改变符咒的效果。默认 GUI 键为 R。 当你按下这个键，GUI 界面就会出现。如果符咒拥有可以调整的效果，所以的效果都会在屏幕左侧显示。每种效果都有对应的滑动控制条、按钮或者其他 GUI 元素。当你的鼠标悬停在任意的按钮或滑动控制条上方时，屏幕左侧将会出现一个有关这个 GUI 的提示文本。"
     },
     {
       "type": "text",
