@@ -8,7 +8,7 @@
     {
       "type": "spotlight",
       "item": "divinefavor:spell_talisman_blink",
-      "text": "某些符咒拥有可以根据你需求调整的效果。For example$(item)Blink talisman$() has distance property.这种效果决定了符咒会把你传送多远。"
+      "text": "某些符咒拥有可以根据你需求调整的效果。例如$(item)闪现符咒$()拥有distance property.这种效果决定了符咒会把你传送多远。"
     },
     {
       "type": "text",
@@ -16,7 +16,7 @@
     },
     {
       "type": "text",
-      "text": "You can freely change any available properties on talisman, but keep in mind that property may change cost of talisman use. For example the bigger is distance set on blink talisman, the more favor usage will cost. Talisman properties are abundant on build talismans. Most of the properties in gui you can chandge by either clicking slider or button with a mouse or by hovering gui element with your mouse and scrolling mouse wheel."
+      "text": "你可以自由地改变符咒中任何可修改的效果，但是要记得被修改的效果可能也会改变符咒的消耗。For example the bigger is distance set on blink talisman, the more favor usage will cost. Talisman properties are abundant on build talismans. Most of the properties in gui you can chandge by either clicking slider or button with a mouse or by hovering gui element with your mouse and scrolling mouse wheel."
     },
     {
       "type": "text",
